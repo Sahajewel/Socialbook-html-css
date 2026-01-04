@@ -1,6 +1,6 @@
 # Social Media Clone
 
-A responsive social media website clone built with HTML and CSS, created in 2022 as a learning project.
+This project was originally developed in 2022 as part of my early web development learning journey. Uploaded to GitHub in 2026 for archival purposes to showcase my growth as a developer.
 
 ## 📋 Description
 
@@ -50,7 +50,7 @@ Or simply double-click the `index.html` file.
 
 ## 🌐 Live Demo
 
-[View Live Demo](your-netlify-url-here)
+[View Live Demo](https://dancing-baklava-bf407e.netlify.app)
 
 ## 📸 Screenshots
 
@@ -82,8 +82,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Sahajewel](https://github.com/Sahajewel)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sahajewelkumar)
 
 ## 🙏 Acknowledgments
 
