@@ -26,7 +26,7 @@ This project is a static front-end clone of a popular social media platform, dem
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/social-media-clone.git
+git clone https://github.com/Sahajewel/Socialbook-html-css
 ```
 
 2. Navigate to the project directory
@@ -34,19 +34,8 @@ git clone https://github.com/yourusername/social-media-clone.git
 cd social-media-clone
 ```
 
-3. Open `index.html` in your browser
-```bash
-# On Mac
-open index.html
 
-# On Windows
-start index.html
 
-# On Linux
-xdg-open index.html
-```
-
-Or simply double-click the `index.html` file.
 
 ## 🌐 Live Demo
 
