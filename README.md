@@ -29,13 +29,6 @@ This project is a static front-end clone of a popular social media platform, dem
 git clone https://github.com/Sahajewel/Socialbook-html-css
 ```
 
-2. Navigate to the project directory
-```bash
-cd social-media-clone
-```
-
-
-
 
 ## 🌐 Live Demo
 
