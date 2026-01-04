@@ -65,7 +65,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Your Name**
 
 - GitHub: [@Sahajewel](https://github.com/Sahajewel)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sahajewelkumar)
+- LinkedIn: [SahaJewelKumar](https://linkedin.com/in/sahajewelkumar)
 
 ## 🙏 Acknowledgments
 
